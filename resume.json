@@ -1,0 +1,172 @@
+{
+    "name": "Adil Zafar",
+    "contact": {
+        "linkedin": "https://www.linkedin.com/in/adilzafar2001/",
+        "email": "adilzafar81795@gmail.com",
+        "github": "https://github.com/Adil81795",
+        "mobile": "+91-6386630228"
+    },
+    "skills": {
+        "languages": [
+            "C/C++",
+            "Python",
+            "Java",
+            "JavaScript",
+            "C#",
+            "MySQL"
+        ],
+        "web_technology": [
+            "HTML",
+            "CSS",
+            "TypeScript",
+            "React",
+            "Angular",
+            "Bootstrap",
+            "Node.js",
+            "Express.js",
+            "WordPress"
+        ],
+        "database_management": [
+            "SQL",
+            "MySQL",
+            "MongoDB"
+        ],
+        "tools_platforms": [
+            "Visual Studio Code",
+            "IntelliJ Idea",
+            "NetBeans",
+            "Adobe Photoshop",
+            "Canva",
+            "Git",
+            "GitHub",
+            "Docker",
+            "Linux"
+        ],
+        "soft_skills": [
+            "Problem-Solving Skills",
+            "Team Player",
+            "Project Management",
+            "Adaptability",
+            "Willingness to learn"
+        ]
+    },
+    "projects": [
+        {
+            "name": "JAVA Chatting Application",
+            "technologies": [
+                "Swing Library",
+                "AWT",
+                "JAVA",
+                "Socket Programming"
+            ],
+            "date": "May 2024 - June 2024",
+            "description": [
+                "Developed a real-time chat application using the JAVA Swing, facilitating seamless communication between users.",
+                "Implemented Socket Programming for real-time bidirectional event-based communication for sending and receiving messages between clients and servers, enabling instant messaging and notifications.",
+                "Used in Socket Programming to create a server-side socket (ServerSocket) that listens for incoming connections.",
+                "Integrated AWT for event handling, creating windows, events, and handling graphics."
+            ],
+            "github": "https://github.com/Adil81795/Java-chatting-application-"
+        },
+        {
+            "name": "Air Stay",
+            "technologies": [
+                "React",
+                "Tailwind CSS",
+                "MongoDB",
+                "Express",
+                "Node.js"
+            ],
+            "date": "March 2024 - June 2024",
+            "description": [
+                "Built a full-stack web application emulating Airbnb’s core functionalities, providing users with booking and listing capabilities using the MERN (MongoDB, Express.js, React, Node.js) Stack.",
+                "Designed a responsive and visually appealing user interface using TailwindCSS, ensuring a seamless user experience across devices leading to a 50% increase in online bookings and a 30% boost in client engagement.",
+                "Implemented RESTful APIs with Express and Node.js for efficient data handling and server communication utilizing MongoDB for scalable data storage. This resulted in a 15% reduction in processing time and ensured 99.9% accuracy."
+            ],
+            "github": "https://github.com/Adil81795/Air-bnb-clone"
+        },
+        {
+            "name": "Gamesworldz (Platform Gaming Website)",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Angular",
+                "Bootstrap"
+            ],
+            "date": "November 2023 - December 2023",
+            "description": [
+                "Created a dynamic gaming portfolio featuring Hangman, Rock Paper Scissors, and Memory Word Game using Angular for interactive interfaces enhancing online visibility by 200%.",
+                "Implemented Bootstrap for seamless mobile-first experiences in games like Hangman and Rock Paper Scissors.",
+                "Showcased full-stack expertise by integrating Angular and Bootstrap, ensuring cohesive and polished user interfaces across the gaming portfolio."
+            ],
+            "github": "https://github.com/Adil81795/gamesworldz"
+        }
+    ],
+    "achievements": [
+        {
+            "description": "Secured a score of 500 marks in CoCubes, demonstrating strong aptitude in problem-solving and analytical skills.",
+            "date": "October 2023"
+        },
+        {
+            "description": "200+ problems solved on LeetCode.",
+            "date": "March 2024"
+        },
+        {
+            "description": "4-Star Rating in Java on HackerRank.",
+            "date": "November 2022"
+        },
+        {
+            "description": "Secured 1st position in debate competition in high school.",
+            "date": "June 2019"
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Developing Frontend Apps with React - Coursera",
+            "issuer": "IBM",
+            "date": "February 2024 - May 2024",
+            "link": "https://www.coursera.org/account/accomplishments/verify/HGVF7QV49YAU"
+        },
+        {
+            "name": "Advanced React - Coursera",
+            "issuer": "Meta",
+            "date": "January 2024 - April 2024",
+            "link": "https://www.coursera.org/account/accomplishments/verify/H77C5FEZNTQF"
+        },
+        {
+            "name": "MERN Stack - Summer Training Program - Cipher Schools",
+            "date": "June 2023 - July 2023",
+            "link": "https://drive.google.com/file/d/12un0XZM2ZkbAnIVOS8Ij0e0gasI5uvwK/view?usp=drive_link"
+        }
+    ],
+    "education": [
+        {
+            "institution": "Lovely Professional University",
+            "degree": "Bachelor of Technology - Computer Science and Engineering",
+            "location": "Punjab, India",
+            "cgpa": 6.89,
+            "date": "Since July 2021",
+            "favorite_courses": [
+                "Object Oriented Programming",
+                "Data Structures",
+                "Analysis of Algorithms",
+                "Full Stack (MERN)"
+            ]
+        },
+        {
+            "institution": "St. Joseph’s High School",
+            "location": "Gorakhpur, Uttar Pradesh",
+            "degree": "Intermediate",
+            "percentage": "74%(ISC)",
+            "date": "April 2019 - March 2020"
+        },
+        {
+            "institution": "St. Joseph’s High School",
+            "location": "Gorakhpur, Uttar Pradesh",
+            "degree": "Matriculation",
+            "percentage": "90%(ICSE)",
+            "date": "April 2017 – March 2018"
+        }
+    ]
+}
